@@ -31,6 +31,32 @@ Build a machine learning model to classify messages as **Spam** or **Ham (Not Sp
 | `models/`   | Trained model artifacts                 |
 
 ---
+## 📂 Folder Structure
+
+```
+email-spam-detector-prj801/
+│
+├── 📁 data/
+│   └── mail_data.csv                  # The dataset file (add to .gitignore or upload sample)
+│
+├── 📁 notebooks/
+│   └── spam_detector.ipynb           # Jupyter notebook with full code
+│
+├── 📁 src/
+│   └── train_model.py                # Python script for training
+│   └── predict.py                    # Script for making predictions
+│
+├── 📁 models/
+│   └── spam_model.pkl                # Saved trained model
+│
+├── requirements.txt                  # List of dependencies
+├── README.md                         # Project overview
+└── .gitignore                        # Ignore unnecessary files
+```
+
+
+
+---
 
 ## 🧠 ML Workflow
 1. Preprocess data (clean text)
