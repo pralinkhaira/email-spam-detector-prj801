@@ -48,7 +48,7 @@ email-spam-detector-prj801/
 │
 ├── 📁 models/
 │   └── spam_model.pkl                # Saved trained model
-│   └── vectorizer.pkl                # Saved trained model
+│   └── vectorizer.pkl                # The TF-IDF Vectorizer
 │
 ├── requirements.txt                  # List of dependencies
 ├── README.md                         # Project overview
