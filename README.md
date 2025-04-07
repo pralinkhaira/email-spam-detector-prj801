@@ -41,6 +41,28 @@ Build a machine learning model to classify messages as **Spam** or **Ham (Not Sp
 
 ---
 
+---
+
+## 💡 Applications
+- Email spam filters  
+- SMS detection on mobile  
+- Social media bot/spam blocking  
+
+---
+
+## 🙋‍♂️ Contributors
+- Akshant Saini - [211101003]  
+- Vaibhav Chhibber - [211101011]  
+- Pralin Khaira - [211101027]  
+
+---
+
+## 📚 References
+- Stanford CS229: [SMSSpamDetectionUsingML](https://cs229.stanford.edu/proj2013/ShiraniMehr-SMSSpamDetectionUsingMachineLearningApproach.pdf)  
+- IEEE: [Spam Detection Using ML](https://ieeexplore.ieee.org/document/10322491)
+
+---
+
 ## ⚙️ Installation
 ```bash
 git clone https://github.com/<your-username>/email-spam-detector-prj801.git
