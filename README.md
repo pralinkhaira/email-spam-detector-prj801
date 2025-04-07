@@ -41,8 +41,6 @@ Build a machine learning model to classify messages as **Spam** or **Ham (Not Sp
 
 ---
 
----
-
 ## 💡 Applications
 - Email spam filters  
 - SMS detection on mobile  
