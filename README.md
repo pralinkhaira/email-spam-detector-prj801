@@ -90,6 +90,6 @@ email-spam-detector-prj801/
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/<your-username>/email-spam-detector-prj801.git
+git clone https://github.com/pralinkhaira/email-spam-detector-prj801.git
 cd email-spam-detector-prj801
 pip install -r requirements.txt
